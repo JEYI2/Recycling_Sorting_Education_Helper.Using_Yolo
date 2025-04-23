@@ -2,6 +2,5 @@
 
 ---
 
-<img src="https://github.com/yourusername/yourrepo/blob/main/images/member1.png?raw=true" width="150"/>
-<img src="https://github.com/yourusername/yourrepo/blob/main/images/member2.png?raw=true" width="150"/>
-
+![Image](https://github.com/user-attachments/assets/7f38c10d-09e7-4a96-a8b1-c9585a54be69)
+![Image](https://github.com/user-attachments/assets/2f3ed7b2-174e-4bd6-94f3-0b46ab627de7)
